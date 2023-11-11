@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently working on flutter development but as time go, i'm starting to learn node.js,<br>typescript, and golang for backend development
 
-[![#💼 Portofolio]](https://linkedin.com/in/jonathanadiwibowo) 
+# [![💼 Portofolio]](https://linkedin.com/in/jonathanadiwibowo) 
 
 
 ## 🌐 Socials:
