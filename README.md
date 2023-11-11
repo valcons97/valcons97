@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently working on flutter development but as time go, i'm starting to learn node.js,<br>typescript, and golang for backend development
 
-# [My Portfolio 💼](https://docs.google.com/viewer?url=https://github.com/valcons97/valcons97/valcons97/blob/5fb2857833f99156bcaf01d251ca5de7576b58a2/JONATHAN%20ADIWIBOWO_PORTFOLIO.pdf) 
+# [My Portfolio 💼](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/valcons97/valcons97/jonathan-adiwibowo-portfolio.pdf) 
 
 
 ## 🌐 Socials:
